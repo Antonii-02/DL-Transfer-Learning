@@ -243,7 +243,8 @@ predict_image(model, image_index=55, dataset=test_dataset)
 
 ## Confusion Matrix
 
-<img width="619" height="518" alt="image" src="https://github.com/user-attachments/assets/3b46009e-5f8f-4587-87a1-db7255377158" />
+![WhatsApp Image 2026-03-25 at 10 43 22 AM](https://github.com/user-attachments/assets/65e747e1-cde7-4cd9-929a-ec21f2d8a54f)
+
 
 ## Classification Report
 
