@@ -238,7 +238,8 @@ predict_image(model, image_index=55, dataset=test_dataset)
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="790" height="713" alt="image" src="https://github.com/user-attachments/assets/70791696-5cab-4c5b-be1a-04e99cbeeb96" />
+![WhatsApp Image 2026-03-25 at 10 47 02 AM](https://github.com/user-attachments/assets/c6a64686-48da-4d69-8b40-50fa37269b5c)
+
 
 ## Confusion Matrix
 
