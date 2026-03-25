@@ -249,11 +249,14 @@ predict_image(model, image_index=55, dataset=test_dataset)
 
 ## Classification Report
 
-<img width="593" height="235" alt="image" src="https://github.com/user-attachments/assets/79a6d0c2-90a2-4565-b294-8acdc6fd3698" />
+<img width="486" height="146" alt="image" src="https://github.com/user-attachments/assets/747c3f80-a2f0-41db-b6ca-f99f92f3a8d0" />
+
 
 ### New Sample Data Prediction
 
-<img width="466" height="396" alt="image" src="https://github.com/user-attachments/assets/3cbe2500-93d3-4c8b-a40e-ecf506e4e7de" />
+![WhatsApp Image 2026-03-25 at 10 43 48 AM](https://github.com/user-attachments/assets/dd895d0f-b925-4ae5-bbd8-e10c3184487d)
+
+![WhatsApp Image 2026-03-25 at 10 44 03 AM](https://github.com/user-attachments/assets/459845fc-26b8-4100-bfb0-bae7135716c8)
 
 ## RESULT:
 The image classification model using transfer learning with VGG19 architecture for the given dataset has been executed successfully.
